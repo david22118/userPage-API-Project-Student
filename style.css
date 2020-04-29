@@ -49,12 +49,18 @@ body {
     text-align: left;
     color: #2c3e50;
     padding: 1vmax;
-    font-family: 'Indie Flower', cursive;
+    font-family:'Nunito', sans-serif;;
+}
+.headquote {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1vmax;
+   
 }
 
 .quote-container>p {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-size: 1vmax;
+   
 }
 
 .content-container {
